@@ -29,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/aneagoie/robofriends-redux.git",
+  "author": "Sithu <sithuthaungaye09@gmail.com>",
+  "license": "MIT"
 }
